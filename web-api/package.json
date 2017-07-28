@@ -1,0 +1,25 @@
+{
+  "name": "fetch-web-api",
+  "version": "1.0.0",
+  "description": "use nodeJs to fetch MDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/myvipbackup2/node-spider.git"
+  },
+  "keywords": [
+    "node",
+    "fetch",
+    "MDN",
+    "web-api"
+  ],
+  "author": "lzx",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "axios": "^0.16.2"
+  }
+}
